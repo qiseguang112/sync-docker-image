@@ -10,7 +10,7 @@ on:
       destination:
         description: '目标源 (Registry)'
         required: true
-        default: 'registry.cn-beijing.aliyuncs.com'
+        default: 'crpi-2kn7v5744dzcyal4.cn-beijing.personal.cr.aliyuncs.com/qiseguang112/splunk'
       source_repo:
         description: '仓库及标签 (格式 repo:tag)'
         required: true
